@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Pulihkan repo sipro ke /app + .env + dependensi + seed_reset (19 gates PASS)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 37: poc_37.py 85/85 + verify_37.py 91/91 + run_all_gates PASS",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 37: US-1..US-12 dibuktikan main agent di browser",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 37: perbaiki cacat kejujuran angka \"0 hari\" (changeText + shift_days)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 37: konfirmasi independen testing_agent_v3 (iterasi 55: 0 bug)",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 37: tutup fase — plan.md + test_result.md dengan bukti",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 38: alat audit dialog baru + audit halaman/tab/dialog 4 peran",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 38: perbaiki 5 panel tanpa latar, 21 field bisu, 79 label, legenda kontras",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 38: gate baru verify_ui_surfaces.py (diuji-mutasi) — 19 gates",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 38: audit ulang — 0 temuan (owner/pm/finance/site) + uji fungsi formulir",
+    "status": "completed"
+  },
+  {
+    "content": "Fase 38: dua temuan MEDIUM tester diperiksa ulang — tidak terbukti, dicatat jujur",
+    "status": "completed"
+  },
+  {
+    "content": "Bersihkan data uji (DB reset + seed) dan buktikan sehat ulang (19 gates PASS)",
+    "status": "completed"
+  }
+]
